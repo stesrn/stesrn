@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Satheesaran as known as 'sas'
+- 👋 Hi, I’m Satheesaran
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning automation
 - 📫 How to reach me ... sasundar@redhat.com
